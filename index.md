@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: "Quantitative approaches to cell and developmental biology"
+layout: home
 author_profile: true
 classes: wide
 header:
