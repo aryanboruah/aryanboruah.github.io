@@ -16,7 +16,7 @@ author_profile: true
 
 > At the moment, I feel that my interests are becoming more focused. It was only recently that I came across the idea of the physics of morphogenesis, and it immediately resonated with me. This is a direction I can see myself exploring in the coming years.    
 
-> Growing up, I was never on great terms with mathematics and physics—I found them quite difficult to deal with. But as I continue exploring biology more deeply, I keep seeing countless applications of physics and mathematics in understanding living systems. Even though I don’t have a formal background in these subjects, I am fully excited to bring togeather in my scientific pursuits.        
+> Growing up, I was never on great terms with mathematics and physics—I found them quite difficult to deal with. But as I continue exploring biology more deeply, I keep seeing countless applications of physics and mathematics in understanding living systems. Even though I don’t have a formal background in these subjects, I am fully excited to bring togeather in my scientific pursuits.          
 
-> ### This website is a small space where I share my work, projects, and thoughts as I continue exploring the science of living systems.    
+### This website is a small space where I share my work, projects, and thoughts as I continue exploring the science of living systems.    
 
