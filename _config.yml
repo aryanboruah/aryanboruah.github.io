@@ -22,6 +22,10 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/aryanboruah/"
 
+      
+include:
+  - _pages
+
 footer:
   links:
     - label: "GitHub"
