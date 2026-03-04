@@ -19,6 +19,13 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      author_profile: true
+
 author:
   name: "Aryan Boruah"
   avatar: "/assets/images/MSU_Photo.jpg"
