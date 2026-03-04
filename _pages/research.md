@@ -4,7 +4,7 @@ layout: single
 permalink: /research/
 classes: wide
 ---
-## Mechanistic modelling 
+## Mechanistic Mathematical Modelling 
 > Building a computational vertex model to investigate the mechanical principles governing epithelial bending 
 during tissue invagination, focusing on how changes in cell shape, contractility, and junctional tension drive 
 morphogenesis. Deriving the energy equations for the vertexes of a cell including contributions from area elasticity, perimeter elasticity, line tension, and active contractile forces.  
@@ -16,7 +16,7 @@ morphogenesis. Deriving the energy equations for the vertexes of a cell includin
 **PI:** [Dr Ripla Arora](https://www.aroralab.com/)  
 **Institute:** Michigan State University
 
-## Single cell RNA sequence analysis 
+## Single-Cell RNA Sequence Analysis 
 > I have prior experience in scRNA seq analysis. My project was focused on investigating cellular diversity and developmental patterns by comprehensive analysis of scRNA seq data from developing mice and rats. I have applied to the SEURAT pipeline to analyse the single cell data. I explored and applied SAMap algorithm for cross-species data comparison.  
 **PI:** [Dr Marketa Kaucka](https://www.evolbio.mpg.de/person/100609/3331022)  
 **Institute:** Max Planck Institute for Evolutionary Biology
