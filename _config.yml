@@ -33,7 +33,7 @@ defaults:
 author:
   name: "Aryan Boruah"
   avatar: "/assets/images/MSU_Photo.jpg"
-  bio: "Developing and applying mathematics for new biological understanding."
+  bio: "Computational and Mathematical Modelling."
   location: "IISER TVM"
   links:
     - label: "GitHub"
