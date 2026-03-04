@@ -10,7 +10,7 @@ classes: wide
 
 > Hi! Thank you for visiting my website.  
 
-> I am Aryan, from Sibsagar, Assam, India. I’m the elder one in my family. I am 1st year master's student in IISER TVM. As a kid, I was always very curious about nature. Looking back now, it almost feels like the universe was quietly nudging me toward science. The first topic that really caught my imagination was astronomy—for obvious reasons. I think most of us, at some point in our lives, have wondered about space, the universe, and the possibility of life beyond Earth. Those questions fascinated me and played a big role in motivating me to pursue science.    
+> I am Aryan, from Sibsagar, Assam, India. I’m the elder one in my family. I am 1st year master's student in IISER TVM. As a kid, I was always very curious about nature. Looking back now, it almost feels like the universe was quietly nudging me toward science. The first topic that really caught my imagination was astronomy!! for obvious reasons. I think most of us, at some point in our lives, have wondered about space, the universe, and the possibility of life beyond Earth. Those questions fascinated me and played a big role in motivating me to pursue science.    
 
 > Later on, I developed a deep interest in biology. That doesn’t mean I left astronomy behind, it will always stay somewhere in a corner of my heart.    
 
