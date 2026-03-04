@@ -1,7 +1,9 @@
 ---
 title: "About"
+layout: single
 permalink: /about/
 author_profile: true
+classes: wide
 ---
 
 > Somewhere between wondering about the stars and trying to understand life on Earth, I found my way into science.    
