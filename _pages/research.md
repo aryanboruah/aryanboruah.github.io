@@ -10,7 +10,7 @@ during tissue invagination, focusing on how changes in cell shape, contractility
 morphogenesis. Deriving the energy equations for the vertexes of a cell including contributions from area elasticity, perimeter elasticity, line tension, and active contractile forces.  
 **PI:** [Dr Bandan Chakroborthy](https://www.bandanchakrabortty.com/)  
 **Institute:** IISER Thiruvananthapuram
-
+ 
 ## Computational Modelling 
 > Working on agent-based modeling, where I studied the role of stromal cell dynamics in epithelial tissue folding in the mouse uterus using CompuCell3D. I developed a model to simulate epithelial folding in response to a morphogen and investigated how perturbations in stromal behavior influence epithelial topology.  
 **PI:** [Dr Ripla Arora](https://www.aroralab.com/)  
