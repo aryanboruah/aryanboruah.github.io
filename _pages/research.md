@@ -2,6 +2,7 @@
 title: "Research"
 layout: single
 permalink: /group/
+classes: wide
 ---
 
 ## Computational Modelling 
