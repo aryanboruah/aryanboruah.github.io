@@ -1,12 +1,22 @@
 title: "Aryan Archive"
 description: "Quantitative approaches to cell and developmental biology"
 url: "https://aryanboruah.github.io"
+minimal_mistakes_skin: default
+search: true
 baseurl: ""
 
-theme: null
+
+
+# Build settings
+markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
   - jekyll-include-cache
 
 author:
