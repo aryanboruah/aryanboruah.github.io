@@ -1,5 +1,5 @@
 ---
-title: "Quantitative approaches to cell and developmental biology"
+title: "Quantitative approaches to dynamical systems in biology"
 layout: single
 author_profile: true
 classes: wide
