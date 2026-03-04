@@ -1,8 +1,8 @@
 ---
 layout: splash
 title: "Quantitative approaches to cell and developmental biology"
-layout: home
 author_profile: true
+classes: wide
 header:
   overlay_image: /assets/images/43588_2022_306_Figa_HTML.webp
   overlay_filter: 0.5
