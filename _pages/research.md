@@ -1,7 +1,7 @@
 ---
 title: "Research"
 layout: single
-permalink: /group/
+permalink: /research/
 classes: wide
 ---
 
