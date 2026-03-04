@@ -12,6 +12,9 @@ baseurl: ""
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
 
+head_scripts:
+  - /assets/css/custom.css
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
