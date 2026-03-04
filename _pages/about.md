@@ -10,7 +10,7 @@ classes: wide
 
 > Hi! Thank you for visiting my website.  
 
-> I am Aryan, from Sibsagar, Assam, India. I’m the elder one in my family. As a kid, I was always very curious about nature. Looking back now, it almost feels like the universe was quietly nudging me toward science. The first topic that really caught my imagination was astronomy—for obvious reasons. I think most of us, at some point in our lives, have wondered about space, the universe, and the possibility of life beyond Earth. Those questions fascinated me and played a big role in motivating me to pursue science.    
+> I am Aryan, from Sibsagar, Assam, India. I’m the elder one in my family. I am 1st year master's student in IISER TVM. As a kid, I was always very curious about nature. Looking back now, it almost feels like the universe was quietly nudging me toward science. The first topic that really caught my imagination was astronomy—for obvious reasons. I think most of us, at some point in our lives, have wondered about space, the universe, and the possibility of life beyond Earth. Those questions fascinated me and played a big role in motivating me to pursue science.    
 
 > Later on, I developed a deep interest in biology. That doesn’t mean I left astronomy behind, it will always stay somewhere in a corner of my heart.    
 
@@ -18,7 +18,7 @@ classes: wide
 
 > At the moment, I feel that my interests are becoming more focused. It was only recently that I came across the idea of the physics of morphogenesis, and it immediately resonated with me. This is a direction I can see myself exploring in the coming years.    
 
-> Growing up, I was never on great terms with mathematics and physics—I found them quite difficult to deal with. But as I continue exploring biology more deeply, I keep seeing countless applications of physics and mathematics in understanding living systems. Even though I don’t have a formal background in these subjects, I am fully excited to bring togeather in my scientific pursuits.          
+> Growing up, I was never on great terms with mathematics and physics. I found them quite difficult to deal with. But as I continue exploring biology more deeply, I keep seeing countless applications of physics and mathematics in understanding living systems. Even though I don’t have a formal background in these subjects, I am fully excited to bring togeather in my scientific pursuits.          
 
 <div style="max-width:800px; margin:auto; padding:20px; font-weight:600; font-style:italic;">
 This website is a small space where I share my work, projects, and thoughts as I continue exploring the science of living systems.
