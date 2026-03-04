@@ -5,9 +5,12 @@ permalink: /research/
 classes: wide
 ---
 ## Mechanistic Mathematical Modelling 
+
+<p style="text-align: justify;">
 > Building a computational vertex model to investigate the mechanical principles governing epithelial bending 
 during tissue invagination, focusing on how changes in cell shape, contractility, and junctional tension drive 
 morphogenesis. Deriving the energy equations for the vertexes of a cell including contributions from area elasticity, perimeter elasticity, line tension, and active contractile forces.  
+</p>
 **PI:** [Dr Bandan Chakroborthy](https://www.bandanchakrabortty.com/)  
 **Institute:** IISER Thiruvananthapuram
  
