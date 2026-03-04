@@ -4,7 +4,7 @@ title: "Quantitative approaches to cell and developmental biology"
 layout: home
 author_profile: true
 header:
-  overlay_image: /assets/images/banner.jpg
+  overlay_image: /assets/images/Screenshot 2026-03-04 164000.png
   overlay_filter: 0.5
   caption: ""
 excerpt: >
