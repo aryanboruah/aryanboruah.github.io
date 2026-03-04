@@ -1,0 +1,29 @@
+title: "Aryan Archive"
+description: "Quantitative approaches to cell and developmental biology"
+url: "https://aryanboruah.github.io"
+baseurl: ""
+
+theme: null
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Aryan Boruah"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Developing and applying mathematics for new biological understanding."
+  location: "IISER TVM"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/aryanboruah"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/aryanboruah/"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/aryanboruah"
