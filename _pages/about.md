@@ -12,7 +12,7 @@ Hi! Thank you for visiting my website.
 
 I'm Aryan, from Sibsagar, Assam. The eldest sibling in my family. A badminton enthusiast 🏸, sci-fi movie lover 🛸👽, tech geek, and someone who genuinely enjoys cooking. I'm currently a first-year Master's student at IISER TVM, but my relationship with science goes back much further. Ever since I was a kid, I've been deeply curious about nature and life, and looking back, it almost feels like the universe was quietly nudging me toward science all along. The first thing that truly captured my imagination was astronomy. I think most of us, at some point, have gazed up and wondered about space, the cosmos, and whether life exists beyond Earth. Those questions didn't just fascinate me, they became the spark that set me on the path of pursuing science. 
 
-Later on, I developed a deep interest in biology. That doesn’t mean I left astronomy behind, it will always stay somewhere in a corner of my heart.    
+Later on, I developed a deep interest in biology. Astronomy never really left though; it still holds a special place in my heart. Looking at life from a cosmological vantage point makes it feel more precious and profound.
 
 During my undergraduate years, I started exploring a completely new domain called computational biology. I had never imagined that computation and biology could merge in such an interesting way. Discovering this field sparked a lot of curiosity in me and pushed me to dive deeper. I began working on different research projects in computational biology, and now I have been engaged with the field for more than four years. My previous experiences, along with interacting with people from different backgrounds, helped me gradually figure out what truly fascinates me.    
 
