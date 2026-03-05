@@ -10,7 +10,7 @@ Somewhere between wondering about the stars and trying to understand life on Ear
 
 Hi! Thank you for visiting my website.  
 
-I am Aryan, from Sibsagar, Assam, India. I’m the elder one in my family. I am 1st year master's student in IISER TVM. As a kid, I was always very curious about nature. Looking back now, it almost feels like the universe was quietly nudging me toward science. The first topic that really caught my imagination was astronomy!! for obvious reasons. I think most of us, at some point in our lives, have wondered about space, the universe, and the possibility of life beyond Earth. Those questions fascinated me and played a big role in motivating me to pursue science.    
+I'm Aryan, from Sibsagar, Assam. The eldest sibling in my family. A badminton enthusiast 🏸, sci-fi movie lover 🛸👽, tech geek, and someone who genuinely enjoys cooking. I'm currently a first-year Master's student at IISER TVM, but my relationship with science goes back much further. Ever since I was a kid, I've been deeply curious about nature and life, and looking back, it almost feels like the universe was quietly nudging me toward science all along. The first thing that truly captured my imagination was astronomy. I think most of us, at some point, have gazed up and wondered about space, the cosmos, and whether life exists beyond Earth. Those questions didn't just fascinate me, they became the spark that set me on the path of pursuing science. 
 
 Later on, I developed a deep interest in biology. That doesn’t mean I left astronomy behind, it will always stay somewhere in a corner of my heart.    
 
