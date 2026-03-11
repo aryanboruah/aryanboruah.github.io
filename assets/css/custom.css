@@ -3,8 +3,9 @@
 }
 
 
-.site-logo {
+.masthead__menu-item img {
   animation: rotateEarth 20s linear infinite;
+  transform-origin: center;
 }
 
 @keyframes rotateEarth {
