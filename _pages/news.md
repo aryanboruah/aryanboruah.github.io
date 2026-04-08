@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: single
-permalink: /research/
+permalink: /news/
 author_profile: true
 classes: wide
 ---
