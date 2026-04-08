@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-<li style="font-family: Georgia, serif; font-size: 16px;">
+
 Somewhere between wondering about the stars and trying to understand life on Earth, I found my way into science.    
 
 Hi! Thank you for visiting my website.  
@@ -23,4 +23,4 @@ At the moment, I feel that my interests are becoming more focused. It was only r
 This website is a small space where I share my work, projects, and thoughts as I continue exploring the science of living systems.
 </div>
 
-</li>
+
