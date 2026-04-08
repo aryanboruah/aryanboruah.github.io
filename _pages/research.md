@@ -6,6 +6,7 @@ classes: wide
 ---
 ## Mechanistic Mathematical Modelling 
 
+<li style="font-family: Georgia, serif; font-size: 16px;">
 <p style="text-align: justify;">
 Building a computational vertex model to investigate the mechanical principles governing epithelial bending 
 during tissue invagination, focusing on how changes in cell shape, contractility, and junctional tension drive 
@@ -35,4 +36,4 @@ Forest models to evaluate each study data for every marker.
 </p>
 **PI:** [Dr Tarini Shankar Ghosh](https://microbiome.iiitd.edu.in/)  
 **Institute:** IIIT Delhi 
-
+</li>
