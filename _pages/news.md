@@ -6,4 +6,17 @@ author_profile: true
 classes: wide
 ---
 
-March 22, 2026 - Shortlisted for the PHCCO Summer Training program in Computational Oncology. 
+April 3, 2026 — Went on my first friends trip to Kochi.
+April 1, 2026 — Had a Zoom conversation with Tanya Chhabra (PhD, Dr. Lisa Manning’s Lab, Syracuse University).
+March 22, 2026 — Shortlisted for the PHCCO Summer Training Program in Computational Oncology at IISc Bangalore.
+March 19, 2026 — Had an exciting meeting with Prof. Ruth Baker (University of Oxford).
+February 16, 2026 — Online meeting with Dr. Julio Belmonte (NC State University).
+February 4, 2026 — Online meeting with Dr. James Glazier (Indiana University).
+December 18, 2025 — Visited Mumbai for the first time; Marine Drive and Malabar Hill is really beautiful.
+December 17, 2025 — Attended a one-day symposium on Systems Approach to Cell Plasticity at IISc Bangalore.
+December 13, 2025 — Began on my journey: Trivandrum → Bangalore → Mumbai → Gujarat → Delhi.
+November 17, 2025 — Had a Zoom call with Prof. Corey O’Hern (Yale University).
+August 17, 2025 — Met Dr. Bandan Chakrabortty unexpectedly near the BSB B1 stairs.
+August 8, 2025 — Participated in the CompuCell3D hackathon with Prof. Ripla, Harini, and Aishwarya.
+July 28, 2025 — Began the Virtual Multiscale Tissue Modelling workshop and hackathon.
+July 17, 2025 — Admitted to the MSc in Biological Sciences program at IISER Thiruvananthapuram.
