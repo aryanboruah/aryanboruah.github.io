@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-
+<p style="text-align: justify;">
 April 3, 2026 — Went on my first friends trip to Kochi.<br>
 April 1, 2026 — Had a Zoom conversation with Tanya Chhabra (PhD, Dr. Lisa Manning’s Lab, Syracuse University).<br>
 March 22, 2026 — Shortlisted for the PHCCO Summer Training Program in Computational Oncology at IISc Bangalore.<br>
@@ -21,4 +21,5 @@ August 17, 2025 — Met Dr. Bandan Chakrabortty unexpectedly near the BSB B1 sta
 August 8, 2025 — Participated in the CompuCell3D hackathon with Prof. Ripla, Harini, and Aishwarya.<br>
 July 28, 2025 — Began the Virtual Multiscale Tissue Modelling workshop and hackathon.<br>
 July 17, 2025 — Admitted to the MSc in Biological Sciences program at IISER Thiruvananthapuram.<br>
+</p>
 
