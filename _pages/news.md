@@ -7,6 +7,8 @@ classes: wide
 ---
 
 <p style="text-align: justify;">
+April 17, 2026 - Had a brief chat with Dr Dipshikha regarding research after her lecture. She is equally interested in computational biology as I am. She understands the potential of it. Maybe its the beginning of a great mentor mentee relationship.
+April 13, 2026 - Workshop/Lecture series in Baterial Communication. First time met Dr Dipishikha Chakravortty. Such a fascinating talk on Quorum sensing. vwey closely aligned with what I want to work on in the near future. <br> 
 April 3, 2026 — Went on my first friends trip to Kochi.<br>
 April 1, 2026 — Had a Zoom conversation with Tanya Chhabra (PhD, Dr. Lisa Manning’s Lab, Syracuse University).<br>
 March 22, 2026 — Shortlisted for the PHCCO Summer Training Program in Computational Oncology at IISc Bangalore.<br>
